@@ -182,4 +182,6 @@ body {
     transform: scale(1);
   }
 }
-
+#eduCutoff {
+  display: none;
+}
