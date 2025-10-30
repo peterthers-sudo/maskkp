@@ -10,8 +10,9 @@ QUESTIONS_PATH = Path(__file__).parent / "questions.json"
 with open(QUESTIONS_PATH, "r", encoding="utf-8") as f:
     QUESTIONS = json.load(f)
 
-LEVELS = {q["level"]: q for q in QUESTIONS}
+LEVELS = {int(q["level"]): q for q in QUESTIONS}
 MAX_LEVEL = max(LEVELS.keys())
+print(f"Indlæst {len(QUESTIONS)} spørgsmål – højeste level: {MAX_LEVEL}", flush=True)
 SAFE_LEVELS = {5}  # trin hvor man “redder” sit niveau
 
 # ---------- Hjælpefunktioner ----------
