@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang='da'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>MASK-quizzen</title>
+<link rel='stylesheet' href='{{ url_for("static", filename="style.css") }}'>
+</head>
+<body>
+<div class='container'>
+<header class='header'>
+<h1>Hvem vil være <span>Oversygeplejerske?</span></h1>
+</header>
+
+<!-- Velkomstskærm -->
+<div id="welcomeScreen" class="welcome-screen">
+  <h2>Velkommen til <span>MASK-quizzen</span>!</h2>
+  <p>Test din viden, dit mod og dit testosteronnivean.<br>
+  Klar til at blive oversygeplejerske? 🎓</p>
+  <button id="startBtn" class="primary">Start quiz</button>
+</div>
+
+<section id='statusBar' class='status' style='display:none;'>
+<div class='level'>Niveau: <span id='levelValue'>1</span> / <span id='maxLevel'>10</span></div>
+<div class='safe'>Sikkert trin: <span id='safeValue'>0</span></div>
+<button id='resetBtn' class='ghost'>Nulstil</button>
+</section>
+
+<main class='card' id='quizCard' style='display:none;'>
+<div class='edu-line'>
+<div>Uddannelse: <strong id='eduName'>-</strong></div>
+<div>Adgangskvotient: <strong id='eduCutoff'>-</strong></div>
+</div>
+<h2 id='questionText'>Indlæser spørgsmål...</h2>
+<div id='options' class='options'></div>
+<div class='feedback-wrapper'>
+  <div id='smallMessage' class='small-message'></div>
+  <div id='bigMessage' class='big-message'></div>
+  <div id='bigQuestion' class='big-question'></div>
+</div>
+<div class='actions' id='postAnswerActions' style='display:none;'>
+<button id='stayBtn' class='secondary'>Bliv her</button>
+<button id='continueBtn' class='primary'>Gå videre</button>
+</div>
+</main>
+
+<div id='splash' class='splash'></div>
+<footer class='footer'><p>© 2025 – MASk</p></footer>
+</div>
+<script src='{{ url_for("static", filename="script.js") }}'></script>
+</body>
+</html>

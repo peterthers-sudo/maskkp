@@ -1,0 +1,82 @@
+[
+  {
+    "level": 1,
+    "edu": "Førsteårs-studerende",
+    "cutoff": "—",
+    "question": "Hvad kaldes den klassiske uniform, som sygeplejersker traditionelt bar?",
+    "options": ["Kittel", "Habitat", "Tunika", "Scrubs"],
+    "correct": "Kittel"
+  },
+  {
+    "level": 2,
+    "edu": "Klinisk praktikant",
+    "cutoff": "—",
+    "question": "Hvor mange mandlige sygeplejersker er der cirka i Danmark?",
+    "options": ["1 ud af 10", "1 ud af 5", "1 ud af 20", "Halvdelen"],
+    "correct": "1 ud af 10"
+  },
+  {
+    "level": 3,
+    "edu": "Anatomi-assistent",
+    "cutoff": "—",
+    "question": "Hvilken muskel er primært ansvarlig for vejrtrækning?",
+    "options": ["Biceps", "Diafragma", "Quadriceps", "Gluteus Maximus"],
+    "correct": "Diafragma"
+  },
+  {
+    "level": 4,
+    "edu": "Akutmand",
+    "cutoff": "—",
+    "question": "Hvad er den korrekte rækkefølge i ABC-princippet for førstehjælp?",
+    "options": ["Airway, Breathing, Circulation", "Blood, Air, CPR", "Alert, Bleeding, Call", "Always Bring Coffee"],
+    "correct": "Airway, Breathing, Circulation"
+  },
+  {
+    "level": 5,
+    "edu": "Night shift hero",
+    "cutoff": "—",
+    "question": "Hvilken snack er mest klassisk på nattevagt?",
+    "options": ["Proteinbar", "Rugbrød med ost", "Kaffe og kage", "Tun i vand"],
+    "correct": "Kaffe og kage"
+  },
+  {
+    "level": 6,
+    "edu": "Mandlig rollemodel",
+    "cutoff": "—",
+    "question": "Hvornår blev mænd officielt optaget på sygeplejerskeuddannelsen i Danmark?",
+    "options": ["1946", "1951", "1964", "1973"],
+    "correct": "1951"
+  },
+  {
+    "level": 7,
+    "edu": "Supervisor i simulation",
+    "cutoff": "—",
+    "question": "Hvilket organ pumper blodet rundt i kroppen?",
+    "options": ["Lever", "Lunger", "Hjertet", "Milt"],
+    "correct": "Hjertet"
+  },
+  {
+    "level": 8,
+    "edu": "Bachelor med ære",
+    "cutoff": "—",
+    "question": "Hvilken drik er næsten obligatorisk i pauserummet?",
+    "options": ["Smoothie", "Vand", "Kaffe", "Red Bull"],
+    "correct": "Kaffe"
+  },
+  {
+    "level": 9,
+    "edu": "Afdelingssygeplejerske",
+    "cutoff": "—",
+    "question": "Hvilken dansk by uddanner flest sygeplejersker?",
+    "options": ["København", "Aarhus", "Odense", "Aalborg"],
+    "correct": "Aarhus"
+  },
+  {
+    "level": 10,
+    "edu": "Oversygeplejerske",
+    "cutoff": "—",
+    "question": "Hvad er den vigtigste egenskab hos en sygeplejerske?",
+    "options": ["At kunne lave kaffe", "At have empati", "At kunne multitaske", "At huske alle præparater"],
+    "correct": "At have empati"
+  }
+]
