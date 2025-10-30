@@ -60,19 +60,19 @@ def answer():
         session['level'] = q['level'] + 1
         if session['level'] > MAX_LEVEL:
             session['finished'] = True
-            return jsonify({'result': 'correct', 'finished': True, 'message': 'Du er nu optaget på Konservator!'})
+            return jsonify({'result': 'correct', 'finished': True, 'message': 'Du er nu Oversygeplejerske!'})
         next_q = LEVELS[session['level']]
-        return jsonify({'result': 'correct', 'finished': False, 'message': f'Du er nu optaget på {q["edu"]}!', 'next_edu': next_q["edu"]})
+        return jsonify({'result': 'correct', 'finished': False, 'message': f'Du er nu {q["edu"]}!', 'next_edu': next_q["edu"]})
     else:
         back_to = session.get('safe_level', 0) or 1
         session['level'] = back_to
-        return jsonify({'result': 'wrong', 'finished': False, 'message': f'Afslag! Du ryger tilbage til {LEVELS[back_to]["edu"]}.'})
+        return jsonify({'result': 'wrong', 'finished': False, 'message': f'Dumpet! Du ryger tilbage til {LEVELS[back_to]["edu"]}.'})
 
 @app.route('/stay', methods=['POST'])
 def stay():
     q = LEVELS.get(session.get('level', 1)-1, LEVELS[1])
     session['stopped'] = True
-    return jsonify({'ok': True, 'message': f'Du vælger at blive på {q["edu"]}. 🎓'})
+    return jsonify({'ok': True, 'message': f'Du vælger at blive som {q["edu"]}. 🎓'})
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
