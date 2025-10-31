@@ -1,82 +1,82 @@
 [
   {
     "level": 1,
-    "edu": "Førsteårselev",
+    "edu": "Pillepusher i praktik",
     "cutoff": "—",
-    "question": "Hvad kaldes den klassiske uniform, som sygeplejersker traditionelt bar?",
-    "options": ["Kittel", "Habitat", "Tunika", "Scrubs"],
-    "correct": "Kittel"
+    "question": "Hvad betyder det, når en medicin gives 'p.o.'?",
+    "options": ["Per os (via munden)", "Per operationem (efter operation)", "Per osmosis (gennem huden)", "Per officium (på vagt)"],
+    "correct": "Per os (via munden)"
   },
   {
     "level": 2,
-    "edu": "Klinisk praktikant",
+    "edu": "Tabletturnus-elev",
     "cutoff": "—",
-    "question": "Hvor mange mandlige sygeplejersker er der cirka i Danmark?",
-    "options": ["1 ud af 10", "1 ud af 5", "1 ud af 20", "Halvdelen"],
-    "correct": "1 ud af 10"
+    "question": "Hvor i kroppen nedbrydes de fleste lægemidler?",
+    "options": ["Nyrerne", "Maven", "Leveren", "Tarmen"],
+    "correct": "Leveren"
   },
   {
     "level": 3,
-    "edu": "Anatomi-assistent",
+    "edu": "Infusionsassistent",
     "cutoff": "—",
-    "question": "Hvilken muskel er primært ansvarlig for vejrtrækning?",
-    "options": ["Biceps", "Diafragma", "Quadriceps", "Gluteus Maximus"],
-    "correct": "Diafragma"
+    "question": "Hvad bruges en isotonisk NaCl 0,9% opløsning typisk til?",
+    "options": ["Blodsukkerregulering", "Væskebehandling", "Smertelindring", "Infektioner"],
+    "correct": "Væskebehandling"
   },
   {
     "level": 4,
-    "edu": "Akutmand",
+    "edu": "Farmakologi-fighter",
     "cutoff": "—",
-    "question": "Hvad er den korrekte rækkefølge i ABC-princippet for førstehjælp?",
-    "options": ["Airway, Breathing, Circulation", "Blood, Air, CPR", "Alert, Bleeding, Call", "Always Bring Coffee"],
-    "correct": "Airway, Breathing, Circulation"
+    "question": "Hvad kaldes den dosis, der netop giver den ønskede virkning?",
+    "options": ["Letaldosis", "Bivirkningstærskel", "Terapidosis", "Placebodosis"],
+    "correct": "Terapidosis"
   },
   {
     "level": 5,
-    "edu": "Night shift hero",
+    "edu": "Trykkammertekniker",
     "cutoff": "—",
-    "question": "Hvilken snack er mest klassisk på nattevagt?",
-    "options": ["Proteinbar", "Rugbrød med ost", "Kaffe og kage", "Tun i vand"],
-    "correct": "Kaffe og kage"
+    "question": "Hvilken type medicin gives ofte ved højt blodtryk?",
+    "options": ["Antibiotika", "Diuretika", "Antihistaminer", "Kortikosteroider"],
+    "correct": "Diuretika"
   },
   {
     "level": 6,
-    "edu": "Mandlig rollemodel",
+    "edu": "Insulin-ingeniør",
     "cutoff": "—",
-    "question": "Hvornår blev mænd officielt optaget på sygeplejerskeuddannelsen i Danmark?",
-    "options": ["1946", "1951", "1964", "1973"],
-    "correct": "1951"
+    "question": "Hvor skal hurtigvirkende insulin typisk injiceres?",
+    "options": ["I musklen", "Under huden", "I blodåren", "I leddet"],
+    "correct": "Under huden"
   },
   {
     "level": 7,
-    "edu": "Supervisor i simulation",
+    "edu": "IV-specialist",
     "cutoff": "—",
-    "question": "Hvilket organ pumper blodet rundt i kroppen?",
-    "options": ["Lever", "Lunger", "Hjertet", "Milt"],
-    "correct": "Hjertet"
+    "question": "Hvor ofte skal man typisk skifte en PVK (perifer venekanyle)?",
+    "options": ["Hver 12. time", "Hver 24. time", "Hver 48. time", "Hver 72. time"],
+    "correct": "Hver 72. time"
   },
   {
     "level": 8,
-    "edu": "Bachelor med ære",
+    "edu": "Smertemester",
     "cutoff": "—",
-    "question": "Hvilken drik er næsten obligatorisk i pauserummet?",
-    "options": ["Smoothie", "Vand", "Kaffe", "Red Bull"],
-    "correct": "Kaffe"
+    "question": "Hvad er den maksimale døgndosis for paracetamol til en voksen?",
+    "options": ["2 gram", "3 gram", "4 gram", "5 gram"],
+    "correct": "4 gram"
   },
   {
     "level": 9,
-    "edu": "Afdelingssygeplejerske",
+    "edu": "Antibiotikaprofet",
     "cutoff": "—",
-    "question": "Hvilken dansk by uddanner flest sygeplejersker?",
-    "options": ["København", "Aarhus", "Odense", "Aalborg"],
-    "correct": "Aarhus"
+    "question": "Hvilken af disse antibiotika er penicillinbaseret?",
+    "options": ["Azithromycin", "Amoxicillin", "Ciprofloxacin", "Clindamycin"],
+    "correct": "Amoxicillin"
   },
   {
     "level": 10,
-    "edu": "Oversygeplejerske",
+    "edu": "Farmakologisk guru",
     "cutoff": "—",
-    "question": "Hvad er den vigtigste egenskab hos en sygeplejerske?",
-    "options": ["At kunne lave kaffe", "At have empati", "At kunne multitaske", "At huske alle præparater"],
-    "correct": "At have empati"
+    "question": "Hvorfor skal nogle mediciner gives fast på samme tidspunkt hver dag?",
+    "options": ["For at passe ind i vagtskemaet", "For at opretholde stabil plasmakoncentration", "For at undgå bivirkninger", "For at spare medicin"],
+    "correct": "For at opretholde stabil plasmakoncentration"
   }
 ]
