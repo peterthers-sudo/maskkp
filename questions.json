@@ -1,82 +1,82 @@
 [
   {
-    "level": 1,
-    "edu": "Pillepusher i praktik",
+    "level": 11,
+    "edu": "Medicinsk mesterlære",
     "cutoff": "—",
-    "question": "Hvad betyder det, når en medicin gives 'p.o.'?",
-    "options": ["Per os (via munden)", "Per operationem (efter operation)", "Per osmosis (gennem huden)", "Per officium (på vagt)"],
-    "correct": "Per os (via munden)"
+    "question": "Hvad betyder forkortelsen 'bivirkning' i lægemiddelsammenhæng?",
+    "options": ["En ønsket effekt", "En utilsigtet virkning", "En placeboeffekt", "En allergitest"],
+    "correct": "En utilsigtet virkning"
   },
   {
-    "level": 2,
-    "edu": "Tabletturnus-elev",
+    "level": 12,
+    "edu": "Doseringsekspert",
     "cutoff": "—",
-    "question": "Hvor i kroppen nedbrydes de fleste lægemidler?",
-    "options": ["Nyrerne", "Maven", "Leveren", "Tarmen"],
-    "correct": "Leveren"
+    "question": "Hvor mange milliliter er der i én standard teskefuld medicin?",
+    "options": ["2 ml", "5 ml", "10 ml", "15 ml"],
+    "correct": "5 ml"
   },
   {
-    "level": 3,
-    "edu": "Infusionsassistent",
+    "level": 13,
+    "edu": "Placebo-professor",
     "cutoff": "—",
-    "question": "Hvad bruges en isotonisk NaCl 0,9% opløsning typisk til?",
-    "options": ["Blodsukkerregulering", "Væskebehandling", "Smertelindring", "Infektioner"],
-    "correct": "Væskebehandling"
+    "question": "Hvad er placebo?",
+    "options": ["Et inaktivt præparat uden aktivt stof", "Et stærkt smertestillende middel", "Et stof der øger blodtrykket", "En form for antibiotika"],
+    "correct": "Et inaktivt præparat uden aktivt stof"
   },
   {
-    "level": 4,
-    "edu": "Farmakologi-fighter",
+    "level": 14,
+    "edu": "Feberfighter",
     "cutoff": "—",
-    "question": "Hvad kaldes den dosis, der netop giver den ønskede virkning?",
-    "options": ["Letaldosis", "Bivirkningstærskel", "Terapidosis", "Placebodosis"],
-    "correct": "Terapidosis"
+    "question": "Hvilken af følgende medicintyper er febernedsættende?",
+    "options": ["Ibuprofen", "Amoxicillin", "Furosemid", "Diazepam"],
+    "correct": "Ibuprofen"
   },
   {
-    "level": 5,
-    "edu": "Trykkammertekniker",
+    "level": 15,
+    "edu": "Antikoagulationsagent",
     "cutoff": "—",
-    "question": "Hvilken type medicin gives ofte ved højt blodtryk?",
-    "options": ["Antibiotika", "Diuretika", "Antihistaminer", "Kortikosteroider"],
-    "correct": "Diuretika"
+    "question": "Hvilken af disse mediciner virker blodfortyndende?",
+    "options": ["Warfarin", "Paracetamol", "Metformin", "Omeprazol"],
+    "correct": "Warfarin"
   },
   {
-    "level": 6,
-    "edu": "Insulin-ingeniør",
+    "level": 16,
+    "edu": "Antidepressiv assistent",
     "cutoff": "—",
-    "question": "Hvor skal hurtigvirkende insulin typisk injiceres?",
-    "options": ["I musklen", "Under huden", "I blodåren", "I leddet"],
-    "correct": "Under huden"
+    "question": "Hvilken neurotransmitter påvirkes ofte af SSRI-præparater?",
+    "options": ["Dopamin", "Serotonin", "Adrenalin", "Histamin"],
+    "correct": "Serotonin"
   },
   {
-    "level": 7,
-    "edu": "IV-specialist",
+    "level": 17,
+    "edu": "Inhalationsinstruktør",
     "cutoff": "—",
-    "question": "Hvor ofte skal man typisk skifte en PVK (perifer venekanyle)?",
-    "options": ["Hver 12. time", "Hver 24. time", "Hver 48. time", "Hver 72. time"],
-    "correct": "Hver 72. time"
+    "question": "Hvordan skal en patient typisk bruge en inhalationsspray (fx Ventoline)?",
+    "options": ["Puste ind samtidig med tryk", "Puste ud samtidig med tryk", "Trykke og derefter holde vejret i 5 sek.", "Trykke to gange hurtigt efter hinanden"],
+    "correct": "Puste ind samtidig med tryk"
   },
   {
-    "level": 8,
-    "edu": "Smertemester",
+    "level": 18,
+    "edu": "Antibiotika-ambassadør",
     "cutoff": "—",
-    "question": "Hvad er den maksimale døgndosis for paracetamol til en voksen?",
-    "options": ["2 gram", "3 gram", "4 gram", "5 gram"],
-    "correct": "4 gram"
+    "question": "Hvorfor er det vigtigt at færdiggøre en antibiotikakur?",
+    "options": ["For at undgå resistensudvikling", "For at spare medicin", "For at sænke feberen hurtigt", "For at undgå bivirkninger"],
+    "correct": "For at undgå resistensudvikling"
   },
   {
-    "level": 9,
-    "edu": "Antibiotikaprofet",
+    "level": 19,
+    "edu": "Væskevogter",
     "cutoff": "—",
-    "question": "Hvilken af disse antibiotika er penicillinbaseret?",
-    "options": ["Azithromycin", "Amoxicillin", "Ciprofloxacin", "Clindamycin"],
-    "correct": "Amoxicillin"
+    "question": "Hvad skal man være særlig opmærksom på ved behandling med diuretika?",
+    "options": ["Dehydrering og elektrolytforstyrrelser", "Feber og kulderystelser", "Forstoppelse", "Hududslæt"],
+    "correct": "Dehydrering og elektrolytforstyrrelser"
   },
   {
-    "level": 10,
-    "edu": "Farmakologisk guru",
+    "level": 20,
+    "edu": "Farmakologisk feltgeneral",
     "cutoff": "—",
-    "question": "Hvorfor skal nogle mediciner gives fast på samme tidspunkt hver dag?",
-    "options": ["For at passe ind i vagtskemaet", "For at opretholde stabil plasmakoncentration", "For at undgå bivirkninger", "For at spare medicin"],
-    "correct": "For at opretholde stabil plasmakoncentration"
+    "question": "Hvilken gruppe lægemidler bruges til at sænke kolesterolniveauet?",
+    "options": ["Statiner", "Antacida", "Benzodiazepiner", "Antihistaminer"],
+    "correct": "Statiner"
   }
 ]
