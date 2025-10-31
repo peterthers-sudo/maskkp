@@ -1,6 +1,6 @@
 [
   {
-    "level": 11,
+    "level": 1,
     "edu": "Medicinsk mesterlære",
     "cutoff": "—",
     "question": "Hvad betyder forkortelsen 'bivirkning' i lægemiddelsammenhæng?",
@@ -8,7 +8,7 @@
     "correct": "En utilsigtet virkning"
   },
   {
-    "level": 12,
+    "level": 2,
     "edu": "Doseringsekspert",
     "cutoff": "—",
     "question": "Hvor mange milliliter er der i én standard teskefuld medicin?",
@@ -16,7 +16,7 @@
     "correct": "5 ml"
   },
   {
-    "level": 13,
+    "level": 3,
     "edu": "Placebo-professor",
     "cutoff": "—",
     "question": "Hvad er placebo?",
@@ -24,7 +24,7 @@
     "correct": "Et inaktivt præparat uden aktivt stof"
   },
   {
-    "level": 14,
+    "level": 4,
     "edu": "Feberfighter",
     "cutoff": "—",
     "question": "Hvilken af følgende medicintyper er febernedsættende?",
@@ -32,7 +32,7 @@
     "correct": "Ibuprofen"
   },
   {
-    "level": 15,
+    "level": 5,
     "edu": "Antikoagulationsagent",
     "cutoff": "—",
     "question": "Hvilken af disse mediciner virker blodfortyndende?",
@@ -40,7 +40,7 @@
     "correct": "Warfarin"
   },
   {
-    "level": 16,
+    "level": 6,
     "edu": "Antidepressiv assistent",
     "cutoff": "—",
     "question": "Hvilken neurotransmitter påvirkes ofte af SSRI-præparater?",
@@ -48,7 +48,7 @@
     "correct": "Serotonin"
   },
   {
-    "level": 17,
+    "level": 7,
     "edu": "Inhalationsinstruktør",
     "cutoff": "—",
     "question": "Hvordan skal en patient typisk bruge en inhalationsspray (fx Ventoline)?",
@@ -56,7 +56,7 @@
     "correct": "Puste ind samtidig med tryk"
   },
   {
-    "level": 18,
+    "level": 8,
     "edu": "Antibiotika-ambassadør",
     "cutoff": "—",
     "question": "Hvorfor er det vigtigt at færdiggøre en antibiotikakur?",
@@ -64,7 +64,7 @@
     "correct": "For at undgå resistensudvikling"
   },
   {
-    "level": 19,
+    "level": 9,
     "edu": "Væskevogter",
     "cutoff": "—",
     "question": "Hvad skal man være særlig opmærksom på ved behandling med diuretika?",
@@ -72,7 +72,7 @@
     "correct": "Dehydrering og elektrolytforstyrrelser"
   },
   {
-    "level": 20,
+    "level": 10,
     "edu": "Farmakologisk feltgeneral",
     "cutoff": "—",
     "question": "Hvilken gruppe lægemidler bruges til at sænke kolesterolniveauet?",
